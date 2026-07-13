@@ -1,0 +1,64 @@
+# Myntra Apparel Analysis (Excel Case Study)
+
+## Project Overview
+
+This project analyzes a dataset containing apparel products** from Myntra using Microsoft Excel. The objective was to clean the data, perform exploratory analysis, retrieve information using lookup functions, and document the complete workflow in a professional case study.
+
+## Dataset Size
+
+* Total Records: **526,565**
+* Tool Used: **Microsoft Excel**
+
+## Project Tasks
+
+### Data Cleaning
+
+* Checked for duplicate records
+* Standardized the DiscountOffer column
+* Handled missing DiscountPrice values
+* Replaced missing SizeOption values
+
+### Data Analysis
+
+* Average Original Price of highly rated products
+* Products with discounts greater than 50%
+* Products available in size M
+* Discount categorization
+
+### Lookup Operations
+
+* VLOOKUP
+* XLOOKUP
+* INDEX + MATCH
+* Nested XLOOKUP
+
+## Excel Functions Used
+
+* IF
+* AVERAGEIF
+* COUNTIF
+* SUMIFS
+* FILTER
+* SUBSTITUTE
+* NUMBERVALUE
+* VLOOKUP
+* XLOOKUP
+* INDEX
+* MATCH
+
+## Skills Demonstrated
+
+* Data Cleaning
+* Data Transformation
+* Data Analysis
+* Excel Lookup Functions
+* Business Insights
+* Documentation
+
+## Project File
+
+The complete case study is available in the PDF included in this repository.
+
+## Author
+
+**Shailesh Bavane**
